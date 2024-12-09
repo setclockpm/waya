@@ -127,5 +127,14 @@ Run source ~/.zprofile (or source ~/.bash_profile for bash) to load the config i
 
 Please make sure you use the correct Android SDK path. You can find the actual location of the SDK in the Android Studio "Settings" dialog, under Languages & Frameworks → Android SDK.
 
+### Now set up Expo framework
+[Expo Development Framework](https://docs.expo.dev/get-started/set-up-your-environment/?mode=development-build&platform=ios&device=simulated)
+
+Choose **Development Build**, then follow directions on Expo's setup docs.
+
+#### Install EAS CLI
+
+`npm install -g eas-cli`
+
 
 ## *Windows*
