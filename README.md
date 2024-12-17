@@ -137,4 +137,7 @@ Choose **Development Build**, then follow directions on Expo's setup docs.
 `npm install -g eas-cli`
 
 
+IMPORTANT LITTLE BUG FIX FOR WHEN EXPO CLI IS LOOKING FOR XCODE  
+`sudo xcode-select -s /Applications/Xcode.app/Contents/Developer`
+
 ## *Windows*
